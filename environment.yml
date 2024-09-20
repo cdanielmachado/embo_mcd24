@@ -1,0 +1,9 @@
+name: mcd24
+
+dependencies:
+  - jupyter
+  - pandas
+  - pip
+  - pip:
+    - steadiercom
+    - pyvis
