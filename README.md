@@ -1,2 +1,3 @@
-# embo_mcd24
-Metabolite and species dynamics in microbial communities 2024.
+# Metabolite and species dynamics in microbial communities 2024
+
+This repository contains an exercise on simulating metabolic cross-feeding interactions in a kefir community. It uses a simulation [SteadierCom](https://github.com/cdanielmachado/SteadierCom) (Burgos et al, unpublished), which is inspired on [SteadyCom](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005539) and [SMETANA](https://www.pnas.org/doi/abs/10.1073/pnas.1421834112).   
